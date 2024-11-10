@@ -1,0 +1,20 @@
+{
+  "name": "o-0-zip",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro check && astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/mdx": "^3.1.9",
+    "@astrojs/rss": "^4.0.9",
+    "@astrojs/sitemap": "^3.2.1",
+    "astro": "^4.16.10",
+    "@astrojs/check": "^0.6.0",
+    "typescript": "^5.6.3"
+  }
+}
